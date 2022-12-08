@@ -1,0 +1,36 @@
+#logwin
+{
+    border: 1px solid black;
+    height: 500px;
+    width: 1350px;
+
+}
+#wel
+{
+    background-image: url(../media/images.jpeg);
+    border: 1px solid blue;
+    height: 200px; width: 1300px;
+    
+    
+}
+/* #wel>h3
+{
+  font-size: medium;
+  text-align: center;
+  color: purple;
+} */
+form
+{
+    border: 2px solid brown;
+}
+input,label
+{
+border: 1px solid blueviolet;
+margin: 50px;
+}
+button
+{
+    margin: 50px;
+    margin-left: 200px;
+    color: red;
+}
